@@ -1,4 +1,9 @@
-# Preview
+# AI Interview Prepor
+
+
+Your AI-powered interview coach — practice smarter, not harder. 
+
+
 <img width="2518" height="1300" alt="image" src="https://github.com/user-attachments/assets/4c398df0-b823-4de5-bb9f-c08689c1e58b" />
 
 
